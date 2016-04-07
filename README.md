@@ -1,8 +1,8 @@
-#### Basic Project
+#### Interfaces and Classes Project
 
-### March 26, 2016
+### April 6, 2016
 
-A Basic Structure for Maven Projects
+A project which uses interfaces and classes.
 
 * Git
 * Java 7
